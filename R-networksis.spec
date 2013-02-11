@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Version:          1.4
 Release:          1
-Summary:          Simulate bipartite graphs with fixed marginals through sequential importance sampling
+Summary:          Simulate fixed marginals bipartite graphs using sequential importance sampling
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
