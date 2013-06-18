@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.1.1
-Release:          1
+Release:          2
 Summary:          Simulate fixed marginals bipartite graphs using sequential importance sampling
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
