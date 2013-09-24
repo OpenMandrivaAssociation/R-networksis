@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          2.1.1
-Release:          2
+Version:          2.1.2
+Release:          1
 Summary:          Simulate fixed marginals bipartite graphs using sequential importance sampling
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/networksis_2.1-1.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/networksis_2.1-2.tar.gz
 Requires:         R-ergm R-network 
 Requires:         R-snow 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-ergm R-network
@@ -45,3 +45,4 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+

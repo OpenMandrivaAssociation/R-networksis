@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   networksis_2.1-1.tar.gz: 2afe5f0ee81de52975d0c90a1ecef40c3127cf6d
+sources:
+  networksis_2.1-2.tar.gz: e10f773ed21be0bb9fbda16ec1cfd7be81c24cfc
