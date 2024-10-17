@@ -7,7 +7,7 @@ Release:          2
 Summary:          Simulate fixed marginals bipartite graphs using sequential importance sampling
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/networksis_2.1-1.tar.gz
 Requires:         R-ergm R-network 
 Requires:         R-snow 
